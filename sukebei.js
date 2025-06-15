@@ -8,7 +8,7 @@ export default new class sukebei extends AbstractSource {
 
 
 
-    /** @type {import('./types.js').SearchFunction} */
+    /** @type {import('./').SearchFunction} */
 
     async single ({ anilistId, titles, episodeCount }) {
 
