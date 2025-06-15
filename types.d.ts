@@ -39,3 +39,30 @@ export interface Seadex {
     trs: string[]
   }[]
 }
+
+export interface Result {
+
+    title: string,
+
+    link: string,
+
+    id?: number,
+
+    seeders: number,
+
+    leechers: number,
+
+    downloads: number,
+
+    hash: string,
+
+    size: number,
+
+    verified: boolean,
+
+    date: Date,
+
+    type?: 'batch' | 'best' | 'alt'
+
+  }
+
