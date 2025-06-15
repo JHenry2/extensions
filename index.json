@@ -1,8 +1,8 @@
 [
   {
-    "name": "Seadex",
-    "id": "seadex",
-    "version": "0.0.2",
+    "name": "sukebei",
+    "id": "sukebei",
+    "version": "0.0.1",
     "type": "torrent",
     "accuracy": "high",
     "ratio": 0,
@@ -11,37 +11,7 @@
       "US"
     ],
     "icon": "https://releases.moe/favicon.png",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/seadex"
-  },
-  {
-    "name": "AnimeTosho",
-    "id": "animetosho",
-    "version": "0.0.3",
-    "type": "torrent",
-    "accuracy": "high",
-    "ratio": 0,
-    "media": "sub",
-    "languages": [
-      "US"
-    ],
-    "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho"
-  },
-  {
-    "name": "AnimeTosho",
-    "id": "animetosho-nzb",
-    "version": "0.0.2",
-    "type": "nzb",
-    "accuracy": "high",
-    "ratio": 0,
-    "media": "sub",
-    "languages": [
-      "US"
-    ],
-    "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho-nzb"
+    "update": "gh:Jhenry2/extensions",
+    "code": "gh:hayase-app/extensions/extensions/sukebei"
   }
 ]
